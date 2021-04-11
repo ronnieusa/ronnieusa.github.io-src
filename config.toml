@@ -1,26 +1,26 @@
 # Settings
 baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "AutoPhugo"
+title = "Ronnie Photography"
 theme = "autophugo"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Karl Sickendick"
-    email = "kc0bfv@gmail.com"
+    name = "Ronnie Kao"
+    email = "tienhsiangkao@gmail.com"
 
 [params]
     # Meta
-    description = "AutoPhugo - Photo Gallery on Hugo"
-    keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
+    description = "Ronnie Kao, not an instagram photographer"
+    keywords = "phugo, hugo, photogallery, photoblog, hugo theme, instagram, photography, photo, ronnie, ronniekao, photographer"
     #msvalidate = ""
     #googlesiteverification = ""
     thumb_width = 1080
     thumb_quality = 100
     full_width = 3840
     full_quality = 100
-    #column_count = 2
+    column_count = 4
     #breadcrumb_use_title = false
     
     # Headerbar links
@@ -53,7 +53,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.footer.social.links]]
     label = "Instagram"
-    url = "#"
+    url = "https://www.instagram.com/ronniesony/?hl=en"
     icon = "fa-instagram"
 
     [[params.footer.social.links]]
@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     
     [params.footer.contact]
     hide = false # Set this to true if you don't want to have a contact form on your site
-    realEmail = "example@example.org"
+    realEmail = "tienhsiangkao@gmail.com"
     headline = "Get in touch"
     buttonText = "Send"
     resetText = "Reset"
@@ -102,5 +102,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     
     # Copyright
     [params.footer.copyright]
-    name = "Your name"
+    name = "Ronnie Kao"
 
