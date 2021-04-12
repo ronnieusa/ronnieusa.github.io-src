@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "http://ronnieusa.github.io"
 languageCode = "en-us"
 title = "Ronnie Photography"
 theme = "autophugo"
