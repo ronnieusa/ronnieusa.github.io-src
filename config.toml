@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     full_width = 3840
     full_quality = 100
     column_count = 3
-    #breadcrumb_use_title = false
+    breadcrumb_use_title = true
     
     # Headerbar links
     # Do not put too many links here,
@@ -36,7 +36,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     
     [params.footer.paragraph]
     headline = "Not An Instagram Photographer"
-    text = "Ronnie Kao focuses humanitarian photography, specifically the fadaway of native American culture, border crisis in the United States. Meanwhile, he is also interested in impressionism photography, cubism photography and any other avant-garde genre of photography." 
+    text = "Ronnie Kao focuses humanitarian photography, specifically the fadaway of native American culture, border crisis in the United States. Meanwhile, he is also interested in impressionism photography, cubism photography and any other avant-garde genre of photography. Please contact me for business inquiries or original photos." 
     [params.footer.social]
     headline = "Follow me"
 
