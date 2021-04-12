@@ -35,9 +35,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Footer panel
     
     [params.footer.paragraph]
-    headline = "Magna feugiat sed adipiscing"
-    text = "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum."
-    
+    headline = "Not An Instagram Photographer"
+    text = "Ronnie Kao focuses humanitarian photography, specifically the fadaway of native American culture, border crisis in the United States. Meanwhile, he is also interested in impressionism photography, cubism photography and any other avant-garde genre of photography." 
     [params.footer.social]
     headline = "Follow me"
 
