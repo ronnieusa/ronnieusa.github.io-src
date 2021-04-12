@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     thumb_quality = 100
     full_width = 3840
     full_quality = 100
-    column_count = 4
+    column_count = 3
     #breadcrumb_use_title = false
     
     # Headerbar links
