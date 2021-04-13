@@ -5,4 +5,6 @@ resources:
 - src: catnology/DSC_07963.JPG
 - src: catnology/DSC_00145.JPG
 - src: catnology/DSC_0080.jpg
+- src: catnology/DSC_0298.jpg
+- src: catnology/DSC_0304.jpg
 ---
