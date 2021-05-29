@@ -5,4 +5,5 @@ albumthumb: "impressionism/DSC_0343.jpg"
 draft: false
 resources:
 - src: impressionism/DSC_0343.jpg
+- src: impressionism/downhill.png
 ---
