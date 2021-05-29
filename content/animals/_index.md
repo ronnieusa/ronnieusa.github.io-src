@@ -9,5 +9,6 @@ resources:
 - src: animals/DSC_0196.jpg
 - src: animals/DSC_0202.jpg
 - src: animals/DSC_0204.jpg
+- src: animals/_DSC5786.png
 ---
 
