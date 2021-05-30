@@ -1,7 +1,8 @@
 ---
-title: "Rmnpppp"
+title: "Rocky Mountain National Park"
 date: 2021-05-30T01:27:58-05:00
 draft: false
+albumthumb: rmnpppp/rmden.jpg
 resources:
 - src: rmnpppp/rmden.jpg
 - src: rmnpppp/DSC2955.png
