@@ -1,7 +1,15 @@
 ---
-title: "Rocky Mountain National Park"
-date: 2021-05-28T00:04:14-05:00
+title: "Rokcy Mountain"
+date: 2021-04-12T02:37:49-05:00
+albumthumb: "rmnp/rmden.png"
+draft: false
 resources:
-- src: DSC2957.png
+- src: animals/DSC_0190.jpg
+- src: animals/DSC_0193.jpg
+- src: animals/DSC_0196.jpg
+- src: animals/DSC_0202.jpg
+- src: animals/DSC_0204.jpg
+- src: animals/walllizard.png
 ---
+
 
