@@ -1,10 +1,7 @@
 ---
-title: "Rocky Mountain National Park"
-date: 2021-05-28T17:32:33-05:00
-albumthumb: "RMNP/rmden.png"
-resources:
-- src: rmnp/rmden.png
-- src: rmnp/SheepLake.png
-- src: rmnp/stormrmnp.png
+title: "Rmnp"
+date: 2021-05-30T00:04:14-05:00
+- src: SheepLake.png
+
 ---
 
